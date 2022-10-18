@@ -7,10 +7,12 @@ FILE *fp;
     strcpy(USERS[0].username,"admin");
     strcpy(USERS[0].password,"admin");
     USERS[0].status=1;
+    USERS[0].status=1;
     
     strcpy(USERS[1].username,"user");
     strcpy(USERS[1].password,"user");
     USERS[1].status=0;
+    USERS[1].type=0;
     
     fwrite(USERS,sizeof(users),2,fp);
     
