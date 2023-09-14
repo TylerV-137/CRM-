@@ -1,5 +1,16 @@
-# CRM-
-It is a software which helps to manage students. 
+# Student Report Management System
+
+Simple log in and Registration system
+
 There are two types of users : ADMIN / USER. 
-Depends how you log in you can add, modify, delete and make reports on students and users  
-It has filters, paginary display, searching, and it's own database.
+
+Paginary display
+Filters by by different parameters like age, name, grades etc
+Searching by different parameters
+Edit information
+Raports for students and users are made from the ap by creating a .doc file
+And multiple other functions!
+
+No classes were used, just structures and pointers
+
+
