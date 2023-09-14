@@ -4,7 +4,7 @@ Simple log in and Registration system
 
 There are two types of users : ADMIN / USER. 
 
-Paginary display
+Paginary display.
 
 Filters by by different parameters like age, name, grades etc
 
